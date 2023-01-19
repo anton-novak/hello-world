@@ -8,3 +8,5 @@ Uncommited change
 new_branch commit
 >>>>>>> new_branch
 fast-forward commit
+мастер-фломастер
+
