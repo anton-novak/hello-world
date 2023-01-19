@@ -15,3 +15,4 @@ fast-forward commit
 
 yet another new branch commit
 >>>>>>> 1d96f57 (Yet another new branch commit)
+new commit
